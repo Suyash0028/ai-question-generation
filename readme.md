@@ -65,10 +65,6 @@ The performance of the models was evaluated using:
 * Model performance comparison (T5 vs BART)
 * Visual analysis of scores
 
-## 📝 License
-
-This project is intended for academic use under Seneca College’s course AIGC 5504.
-
 ## 🤝 Acknowledgements
 
 Thanks to HuggingFace Transformers and Google Colab for their powerful tools and platforms.# question-generation-project
